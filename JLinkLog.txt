@@ -1,0 +1,14 @@
+T0BA4 039:676.339   SEGGER J-Link V6.70e Log File
+T0BA4 039:676.464   DLL Compiled: Apr 17 2020 17:55:05
+T0BA4 039:676.470   Logging started @ 2025-04-02 18:07
+T0BA4 039:676.479 JLINK_SetWarnOutHandler(...)
+T0BA4 039:676.484 - 0.007ms
+T0BA4 039:676.493 JLINK_OpenEx(...)
+T0BA4 039:696.812 - 20.339ms returns "Failed to open DLL"
+T0BA4 039:697.435 
+  ***** 
+T0BA4 039:697.453 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T0BA4 040:018.657 JLINK_Close()
+T0BA4 040:018.759 - 0.105ms
+T0BA4 040:018.765   
+T0BA4 040:018.770   Closed
